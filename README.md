@@ -20,4 +20,6 @@ Qual a especialidade de um Técnico em Informática evangélico?
 
 6- Carlos Negri
 
- 7-wesley
+7 - pedro
+
+ 8-wesley
