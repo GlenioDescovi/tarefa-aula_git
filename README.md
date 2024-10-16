@@ -15,7 +15,7 @@ Eu ouvi liberar todo mundo às 21h?
 
 3- Alexandre
 
-4-> Luis Henrique Sauzem de Mello
+4- Luis Henrique Sauzem de Mello
 
 5 - Giana
 
