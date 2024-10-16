@@ -1,5 +1,9 @@
 # tarefa-aula_git
 
-Luis Henrique Sauzem de Mello
+1- Emanuel
 
-03
+1- Glenio
+
+2 - Marcos
+
+3- Luis Henrique Sauzem de Mello
