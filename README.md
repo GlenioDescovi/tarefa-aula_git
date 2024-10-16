@@ -19,8 +19,10 @@ Eu ouvi liberar todo mundo às 21h?
 
 5 - Giana
 
-6- Carlos Negri
+6 - Mateus
 
-7 - pedro
+7 - Carlos Negri
+
+8 - pedro
 
 9 - Gale Dekarios of Waterdeep 
