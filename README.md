@@ -1,2 +1,2 @@
 # tarefa-aula_git
-2- Carlos
+2- Carlos Negri
