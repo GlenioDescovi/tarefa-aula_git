@@ -2,6 +2,8 @@
 
 PROGRAMAÇÃO WEB É MUITO BOM!!!
 
+quero jogar baldurs gate
+
 0,1- Emanuel
 
 1- Glenio
