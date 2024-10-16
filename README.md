@@ -15,14 +15,16 @@ Eu ouvi liberar todo mundo às 21h?
 
 3- Alexandre
 
-4- Luis Henrique Sauzem de Mello
+4-> Luis Henrique Sauzem de Mello
 
 5 - Giana
 
-6 - Mateus
+6- Carlos Negri
 
-7 - Carlos Negri
+7 - pedro
 
-8 - pedro
+9 - Gale Dekarios of Waterdeep
 
-9 - Gale Dekarios of Waterdeep 
+10 - Rodrigo Seliprin
+
+11 - Mateus
