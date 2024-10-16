@@ -22,3 +22,5 @@ Eu ouvi liberar todo mundo às 21h?
 6- Carlos Negri
 
 7 - pedro
+
+9 - Gale Dekarios of Waterdeep 
