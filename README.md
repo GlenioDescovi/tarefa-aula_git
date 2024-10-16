@@ -5,6 +5,7 @@ PROGRAMAÇÃO WEB É MUITO BOM!!!
 Qual a especialidade de um Técnico em Informática evangélico?
 - Coverter arquivos...
 
+Eu ouvi liberar todo mundo às 21h?
 
 10- Emanuel
 
