@@ -53,7 +53,8 @@ Eu ouvi liberar todo mundo às 21h?
 
 =======
 
-9 - Gale Dekarios of Waterdeep 
+9 - homem das carça erguida
+
 9,5 - Astarion <3
 >>>>>>> e06c64aef13111ca6392275264096910def730d5
 
