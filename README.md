@@ -2,7 +2,7 @@
 
 PROGRAMAÇÃO WEB É MUITO BOM!!!
 
-10- Emanuel
+0,1- Emanuel
 
 1- Glenio
 
