@@ -1,6 +1,8 @@
 # tarefa-aula_git
 
-10- Emanuel
+PROGRAMAÇÃO WEB É MUITO BOM!!!
+
+0,1- Emanuel
 
 1- Glenio
 
