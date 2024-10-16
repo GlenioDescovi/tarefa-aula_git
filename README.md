@@ -1,12 +1,10 @@
 # tarefa-aula_git
 
-1- Emanuel
+10- Emanuel
 
 1- Glenio
 
 2 - Marcos
-
-3 - Giana
 
 3- Alexandre
 
