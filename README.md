@@ -45,6 +45,8 @@ Eu ouvi liberar todo mundo às 21h?
 
 9 - Gale Dekarios of Waterdeep
 
+9,5 - Astarion
+
 10 - Rodrigo Seliprin
 
 SOCORRO SENHOR EU  QUERO CAFÉ
@@ -54,3 +56,7 @@ SOCORRO SENHOR EU  QUERO CAFÉ
 12 - pafuncio
 
  8-wesley
+            
+        
+        
+        
