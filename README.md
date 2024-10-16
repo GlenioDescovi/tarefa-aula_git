@@ -6,8 +6,6 @@
 
 2 - Marcos
 
-3 - Giana
-
 3- Alexandre
 
 4- Luis Henrique Sauzem de Mello
