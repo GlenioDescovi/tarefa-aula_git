@@ -29,6 +29,12 @@ Eu ouvi liberar todo mundo às 21h?
 6- Carlos Negri
 
 7 - pedro
+<<<<<<< HEAD
 >>>>>>> abe7e1ad72841f4d9cc6bcab8f9ed03703201d12
 
-9 - Rodrigo Seliprin
+=======
+
+9 - Gale Dekarios of Waterdeep 
+>>>>>>> e06c64aef13111ca6392275264096910def730d5
+
+10 - Rodrigo Seliprin
