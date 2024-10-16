@@ -38,7 +38,6 @@ Eu ouvi liberar todo mundo às 21h?
 
 5 - Giana
 
-
 6- Carlos Negri
 
 7 - pedro
