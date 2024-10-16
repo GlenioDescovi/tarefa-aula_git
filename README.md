@@ -8,8 +8,6 @@ PROGRAMAÇÃO WEB É MUITO BOM!!!
 
 2 - Marcos
 
-3 - Giana
-
 3- Alexandre
 
 4- Luis Henrique Sauzem de Mello
