@@ -2,6 +2,10 @@
 
 PROGRAMAÇÃO WEB É MUITO BOM!!!
 
+Qual a especialidade de um Técnico em Informática evangélico?
+- Coverter arquivos...
+
+
 10- Emanuel
 
 1- Glenio
@@ -13,5 +17,7 @@ PROGRAMAÇÃO WEB É MUITO BOM!!!
 4- Luis Henrique Sauzem de Mello
 
 5 - Giana
+
+6- Carlos Negri
 
  7-wesley
