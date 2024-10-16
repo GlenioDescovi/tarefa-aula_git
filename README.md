@@ -2,8 +2,6 @@
 
 PROGRAMAÇÃO WEB É MUITO BOM!!!
 
-quero jogar baldurs gate
-
 0,1- Emanuel
 
 1- Glenio
@@ -16,4 +14,4 @@ quero jogar baldurs gate
 
 5 - Giana
 
-6- Alice
+6 - Mateus
