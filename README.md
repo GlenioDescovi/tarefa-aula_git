@@ -14,4 +14,9 @@ PROGRAMAÇÃO WEB É MUITO BOM!!!
 
 5 - Giana
 
-6 - Rodrigo Seliprin
+<<<<<<< HEAD
+=======
+6- Carlos Negri
+>>>>>>> ad5ae993d526a98e1e95aba8e664577878629ac8
+
+7 - Rodrigo Seliprin
